@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'es'
+title = 'Mi Web con Hugo'
+theme = 'ananke'
